@@ -242,8 +242,8 @@ if selected_retailer != "All Retailers":
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="dash-header">
-  <p class="dash-title">Adidas US Sales Analytics</p>
-  <p class="dash-sub">IBM Carbon Design · All figures in USD · Source: Adidas US Sales Dataset</p>
+  <p class="dash-title">Adidas US Sales Analytics 2020-2021</p>
+  <p class="dash-sub">Source: Adidas US Sales Dataset (Kaggle)</p>
 </div>
 """, unsafe_allow_html=True)
 
