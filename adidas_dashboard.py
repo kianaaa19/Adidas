@@ -623,6 +623,6 @@ with tab_geo:
 st.markdown("""
 <div style='border-top:1px solid #393939;margin-top:2rem;padding-top:1rem;
 text-align:center;font-size:11px;color:#525252;letter-spacing:.5px'>
-ADIDAS US SALES DASHBOARD · IBM CARBON DESIGN SYSTEM · 2020–2021
+ADIDAS US SALES DASHBOARD · SANTANAM WISHAL
 </div>
 """, unsafe_allow_html=True)
